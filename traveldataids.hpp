@@ -5,7 +5,7 @@
 #ifndef VSOMEIP_EXAMPLES_SAMPLE_IDS_HPP
 #define VSOMEIP_EXAMPLES_SAMPLE_IDS_HPP
 
-#define SERVICE_ID       0x0001
+#define SERVICE_ID       0x0009
 #define INSTANCE_ID      0x0010
 #define METHOD_ID        0x1000
 
